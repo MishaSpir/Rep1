@@ -1,11 +1,14 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-int i = 0, n =5;
+void Hello(){
+ int i = 0, n =5;
+  while(i < n){
+   cout << "Hello World:):)" << endl;
+   i++;
+  }
 
- while(i < n){
-  cout << "Hello World:):)" << endl;
-  i++;
- }
 }
+
+int main(){
+ Hello();
