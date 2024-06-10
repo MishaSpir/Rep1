@@ -2,9 +2,9 @@
 using namespace std;
 
 void Hello(){
- int i = 0, n =5;
+ int i = 0, n =10;
   while(i < n){
-   cout << "Hello World:):)" << endl;
+   cout << "From master or from 1stBranch?" << endl;
    i++;
   }
 
