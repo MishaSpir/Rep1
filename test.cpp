@@ -2,7 +2,10 @@
 using namespace std;
 
 int main(){
+int i = 0, n =5;
 
-
- cout << "Hello World:):)" << endl;
+ while(i < n){
+  cout << "Hello World:):)" << endl;
+  i++;
  }
+}
