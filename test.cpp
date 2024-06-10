@@ -4,7 +4,7 @@ using namespace std;
 void Hello(){
  int i = 0, n =10;
   while(i < n){
-   cout << ":D" << endl;
+   cout << "!!!" << endl;
    i++;
   }
 
